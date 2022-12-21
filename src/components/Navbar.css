@@ -1,0 +1,21 @@
+.navbar{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #CECECE;
+    padding: 0 25px;
+    margin-bottom: 10px;
+}
+
+.navbar p{
+    color: blue;
+}
+
+.navbar button{
+    padding: 10px 15px;
+    background-color: blue;
+    color:white;
+    border: 1px solid white;
+    cursor: pointer;
+}
